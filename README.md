@@ -14,7 +14,7 @@ Ao todo são 12 desafios que eu indico a serem feitos um por semana, para quem e
 - [Desafio 3 - Toggle](desafio-3.md)
 - [Desafio 4 - Dropdown](desafio-4.md)
 - [Desafio 5 - Modal](desafio-5.md)
-- Desafio 6 - Tooltip
+- [Desafio 6 - Tooltip](desafio-6.md)
 - Desafio 7 - Input Float Label
 - Desafio 8 - Animações
 - Desafio 9 - CSS Grid
