@@ -3,9 +3,9 @@ Já pensou se pudessemos abrir e fechar um modal sem JavaScript?
 Dá! Graças a sêmantica do HTML isso é possivel.
 
 Nesse desafio você trabalhará com
-  - Semantia de HTML (for="")
-  - Seletores Irmãos
-  - Pseudo Seletores
+  - Semantia de HTML (`for="")
+  - Seletores Irmãos (`+`, `~`)
+  - Pseudo Seletores (`:`)
   
   
   Nesse desafio você deverá implementar um modal somente com html e css.
@@ -24,6 +24,6 @@ Nesse desafio você trabalhará com
   
   
   
-  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/pen/ExVbvKG)
+  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/full/ExVbvKG)
 
 
