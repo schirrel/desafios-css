@@ -9,17 +9,17 @@ Ao todo são 12 desafios que eu indico a serem feitos um por semana, para quem e
 
 ## Desafios
 
-- [Desafio 1](desafio-1.md)
-- [Desafio 2](desafio-2.md)
-- [Desafio 3](desafio-3.md)
-- [Desafio 4](desafio-4.md)
-- Desafio 5
-- Desafio 6
-- Desafio 7
-- Desafio 8
-- Desafio 9
-- Desafio 10
-- Desafio 11
-- Desafio 12
+- [Desafio 1 - Variaveis](desafio-1.md)
+- [Desafio 2 - Desenhando com CSS](desafio-2.md)
+- [Desafio 3 - Toggle](desafio-3.md)
+- [Desafio 4 - Dropdown](desafio-4.md)
+- [Desafio 5 - Modal](desafio-5.md)
+- Desafio 6 - Tooltip
+- Desafio 7 - Input Float Label
+- Desafio 8 - Animações
+- Desafio 9 - CSS Grid
+- Desafio 10 - SVG 
+- Desafio 11 - Menu Lateral Collapsible
+- Desafio 12 - Dark Mode
 
 
