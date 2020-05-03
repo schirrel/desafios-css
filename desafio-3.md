@@ -24,4 +24,4 @@
   
   
   
-  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/pen/yvGraX)
+  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/full/yvGraX)
