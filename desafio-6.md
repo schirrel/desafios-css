@@ -21,6 +21,6 @@ Nesse desafio você trabalhará com
   
   
   
-  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/pen/mdeqPvz)
+  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/full/mdeqPvz)
 
 
