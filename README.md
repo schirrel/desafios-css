@@ -10,14 +10,14 @@ Ao todo são 12 desafios que eu indico a serem feitos um por semana, para quem e
 - [Desafio 1](desafio-1.md)
 - [Desafio 2](desafio-2.md)
 - [Desafio 3](desafio-3.md)
-- [Desafio 4](desafio-4.md)
-- [Desafio 5](desafio-5.md)
-- [Desafio 6](desafio-6.md)
-- [Desafio 7](desafio-7.md)
-- [Desafio 8](desafio-8.md)
-- [Desafio 9](desafio-9.md)
-- [Desafio 10](desafio-10.md)
-- [Desafio 11](desafio-11.md)
-- [Desafio 12](desafio-12.md)
+- Desafio 4
+- Desafio 5
+- Desafio 6
+- Desafio 7
+- Desafio 8
+- Desafio 9
+- Desafio 10
+- Desafio 11
+- Desafio 12
 
 
