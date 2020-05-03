@@ -4,7 +4,8 @@ Os desafios serão de vários niveis, e espero ajudar a todos que desejam desmit
 
 Todos os desafios necessitarão somente de habilidades em css e html.
 
-Ao todo são 12 desafios que eu indico a serem feitos um por semana, para quem estiver entrando na parte do css agora, se você for mais experiênte podera fazer 3 por semanas, e pros mais hard-mode, podem fazer um por dia em 12 dias.
+Ao todo serão 12 desafios que eu indico a serem feitos um por semana, para quem estiver entrando na parte do css agora.
+Se você for mais experiente podera fazer 3 por semanas, e pros mais hard-mode, podem fazer um por dia em 12 dias.
 
 
 ## Desafios
