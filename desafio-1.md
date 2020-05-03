@@ -18,6 +18,8 @@
   - https://developer.mozilla.org/en-US/docs/Web/CSS/--*
   - https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties
   
-  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/full/GRpOZVP)
+  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/pen/PoPOzKY)
+  [Esse é o template original](https://codepen.io/schirrel/pen/Vwvrjbq), onde vc pode ver q existiam as variaveis, mas nao estavam sendo utilizadas.
   
+  Utilizei o template Argon da empresa Creative Tim.
   
