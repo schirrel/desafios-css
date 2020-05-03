@@ -21,4 +21,4 @@
   
   
   
-  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/pen/bGVYeLE)
+  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/full/bGVYeLE)
