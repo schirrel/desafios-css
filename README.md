@@ -27,13 +27,19 @@ Ao todo são 12 desafios que eu indico a serem feitos um por semana, para quem e
 Collection no [CodePen](https://codepen.io/collection/AaZmOo)
 
 # Duvidas
+
 Surgiu qualquer duvida?
+
 Dica?
+
 Sugestão?
+
 Correção de portugês? 
-Manda um [emailzinho](mailto:alan@schirrel.dev)
-Dá um oi no [telegram](https://t.me/schirrel)
-Ou ainda cria uma issue que a gente se resolve.
+
+
+- Manda um [emailzinho](mailto:alan@schirrel.dev)
+- Dá um oi no [telegram](https://t.me/schirrel)
+- Ou ainda cria uma issue que a gente se resolve.
 
 
 
