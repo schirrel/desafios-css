@@ -17,7 +17,7 @@ Se você for mais experiente podera fazer 3 por semanas, e pros mais hard-mode, 
 - [Desafio 5 - Modal](desafio-5.md)
 - [Desafio 6 - Tooltip](desafio-6.md)
 - [Desafio 7 - Input Float Label](desafio-7.md)
-- Desafio 8 - Animações
+- [Desafio 8 - Animações](desafio-8.md)
 - Desafio 9 - CSS Grid
 - Desafio 10 - SVG 
 - Desafio 11 - Menu Lateral Collapsible
