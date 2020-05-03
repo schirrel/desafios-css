@@ -6,7 +6,7 @@
   - Box Shadow
   
   
-  Nesse desário você deverá desenhar só com CSS o iPhone. 
+  Nesse desafio você deverá desenhar só com CSS o iPhone. 
   Eu usei o 7, mas você é livre para escolher o modelo.
   
   #### Regras
