@@ -1,6 +1,6 @@
   ## Desenhando com CSS
   Vamos começar do mais simples, pra você utilizar:
-  - Positionamento
+  - Posicionamento
   - Borda
   - Gradiente
   - Box Shadow
