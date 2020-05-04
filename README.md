@@ -27,6 +27,7 @@ Se você for mais experiente podera fazer 3 por semanas, e pros mais hard-mode, 
 Bonus 1 -  Input com Icone
 Bonus 2 -  Barra de progresso de rolagem de página (Esse tem JS)
 
+
 Collection no [CodePen](https://codepen.io/collection/AaZmOo)
 
 # Duvidas
