@@ -51,3 +51,10 @@ Correção de portugês?
 Vamos mudar o mundo usando CSS?
 
 Se você gostou desse desáfio não deixe de me dizer, de sentiu falta de alguma técnica ou se gostária de saber novas técnicas não deixe de dizer.
+
+
+## Tem mais?
+
+Se interessou por css mas não tem um caminhho a seguir?
+
+Você pode seguir os passos da [Mentoria CSS](https://github.com/schirrel/mentoria-css)
