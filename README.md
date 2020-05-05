@@ -19,13 +19,13 @@ Se você for mais experiente podera fazer 3 por semanas, e pros mais hard-mode, 
 - [Desafio 7 - Input Float Label](desafio-7.md)
 - [Desafio 8 - Animações](desafio-8.md)
 - [Desafio 9 - CSS Grid](desafio-9.md)
-- Desafio 10 - SVG 
-- Desafio 11 - Menu Lateral Collapsible
-- Desafio 12 - Dark Mode
+- [Desafio 10 - SVG](desafio-10.md)
+- [Desafio 11 - Menu Lateral Collapsible](desafio-11.md)
+- [Desafio 12 - Dark Mode](desafio-12.md)
 
 #### Bonus
-Bonus 1 -  Input com Icone
-Bonus 2 -  Barra de progresso de rolagem de página (Esse tem JS)
+[Bonus 1 -  Input com Icone](desafio-bonus-1.md)
+[Bonus 2 -  Barra de progresso de rolagem de página (Esse tem JS)](desafio-bonus-2.md)
 
 
 Collection no [CodePen](https://codepen.io/collection/AaZmOo)
@@ -49,3 +49,5 @@ Correção de portugês?
 
 
 Vamos mudar o mundo usando CSS?
+
+Se você gostou desse desáfio não deixe de me dizer, de sentiu falta de alguma técnica ou se gostária de saber novas técnicas não deixe de dizer.
