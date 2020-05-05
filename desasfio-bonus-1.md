@@ -11,24 +11,21 @@ E ainda assim vemos que a maioria das bibliotecas tem uma abordagem diferente pa
 
 É isso que vamos fazer
 Nesse desafio você trabalhará com
-  - Pseudo Classes/Seletores
-  - position
-  - padding
+  - CSS | position
+  - CSS | transition
+  - CSS | box-shadow
+  - JS | Seletor de Elementos
+  - JS | Eventos de Janela (scroll)
+  
   
   
   #### Regras
-  Só pode ser usado HTML e CSS
+  Pode ser usado, HTML, CSS e JS, sem libs heim?!
   
   
   #### Requisitos
 É necessaŕio que:
-  - O input tenha um icone, pode ser a direita ou a esquerda a escolha é sua
-  - A biblioteca de icones também é sua escolha
-
-Se quiser ainda 'temperar' mais se desafio você pode:
-- Trocar a cor do icone quando o input estiver em foco
-ou
-- Exibir/Esconder exibir o icone somente em um estado, com foco ou sem 
+  - Sua barra de progresso sejá na parte superior
+  - Tenha uma transição de cor quando chegar ao 100% de carregamento
   
-  
-  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/full/yLYPqbV)
+  Você pode visualizar o modelo que eu fiz no [CodePen](https://codepen.io/schirrel/full/LYpZKLm)
