@@ -24,8 +24,8 @@ Se você for mais experiente podera fazer 3 por semanas, e pros mais hard-mode, 
 - [Desafio 12 - Dark Mode](desafio-12.md)
 
 #### Bonus
-[Bonus 1 -  Input com Icone](desafio-bonus-1.md)
-[Bonus 2 -  Barra de progresso de rolagem de página (Esse tem JS)](desafio-bonus-2.md)
+- [Bonus 1 -  Input com Icone](desafio-bonus-1.md)
+- [Bonus 2 -  Barra de progresso de rolagem de página (Esse tem JS)](desafio-bonus-2.md)
 
 
 Collection no [CodePen](https://codepen.io/collection/AaZmOo)
