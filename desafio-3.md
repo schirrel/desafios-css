@@ -1,5 +1,5 @@
 ## Toggle
-  Chegou a hora de brincar no CSS com um pouco de HTML e sua semantiva 
+  Chegou a hora de brincar no CSS com um pouco de HTML e sua semantica 
   - Seletores Irmão
   - Pseudo Seletores
   - Transição
