@@ -1,7 +1,7 @@
   ## Variaveis 
   Esse desafio você  é pra quem ainda não conhece ou não esta familiarizado com variaveis em css;
   
-  Você poderá pegar qualquer templete que já utilize ou encontre pela internet.
+  Você poderá pegar qualquer template que já utilize ou encontre pela internet.
   Caso utilize algum modelo pronto como os do bootstrap que geralmente são cinzas, adicione 4 cores a eles.
   
   Você devera alterar cores e valores para serem utilizados em variaveis.
