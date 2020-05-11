@@ -18,10 +18,10 @@ If you are more advanced you can do 3 per week, and for the more 'hard mode', yo
 - [Challenge 6 - Tooltip](challenge-6.md)
 - [Challenge 7 - Input with Float Label](challenge-7.md)
 - [Challenge 8 - Animations](challenge-8.md)
-- [Challenge 9 - CSS Grid](challenge 9.md)
-- [Challenge 10 - SVG](challenge 10.md)
-- [Challenge 11 - Collapsible Sidebar Menu](challenge 11.md)
-- [Challenge 12 - Dark Mode](challenge 12.md)
+- [Challenge 9 - CSS Grid](challenge-9.md)
+- [Challenge 10 - SVG](challenge-10.md)
+- [Challenge 11 - Collapsible Sidebar Menu](challenge-11.md)
+- [Challenge 12 - Dark Mode](challenge-12.md)
 
 #### Bonus
 - [Bonus 1 - Input with Icon](challenging-bonus-1.md)
