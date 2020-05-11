@@ -2,61 +2,59 @@ Aqui você terá uma lista de desafios de css para melhorar suas habilidades com
 
 Os desafios serão de vários niveis, e espero ajudar a todos que desejam desmitificar o css.
 
-All challenges will only require css and html.
+Todos os desafios necessitarão somente de habilidades em css e html.
+
+Ao todo serão 12 desafios que eu indico a serem feitos um por semana, para quem estiver entrando na parte do css agora.
+Se você for mais experiente podera fazer 3 por semanas, e pros mais hard-mode, podem fazer um por dia em 12 dias.
 
 
-Altogether there will be 12 challenges that I recommend to be done once a week, for those who are starting with the css.
-If you are more advanced you can do 3 per week, and for the more 'hard mode', you can do one per day in 12 days.
+## Desafios
 
-## Challenges
-
-- [Challenge 1 - Variables] (challenge-1.md)
-- [Challenge 2 - Designing with CSS] (challenge-2.md)
-- [Challenge 3 - Toggle] (challenge-3.md)
-- [Challenge 4 - Dropdown] (challenge-4.md)
-- [Challenge 5 - Modal] (challenge 5.md)
-- [Challenge 6 - Tooltip] (challenge-6.md)
-- [Challenge 7 - Input with Float Label] (challenge-7.md)
-- [Challenge 8 - Animations] (challenge-8.md)
-- [Challenge 9 - CSS Grid] (challenge 9.md)
-- [Challenge 10 - SVG] (challenge 10.md)
-- [Challenge 11 - Collapsible Sidebar Menu] (challenge 11.md)
-- [Challenge 12 - Dark Mode] (challenge 12.md)
+- [Desafio 1 - Variaveis](desafio-1.md)
+- [Desafio 2 - Desenhando com CSS](desafio-2.md)
+- [Desafio 3 - Toggle](desafio-3.md)
+- [Desafio 4 - Dropdown](desafio-4.md)
+- [Desafio 5 - Modal](desafio-5.md)
+- [Desafio 6 - Tooltip](desafio-6.md)
+- [Desafio 7 - Input Float Label](desafio-7.md)
+- [Desafio 8 - Animações](desafio-8.md)
+- [Desafio 9 - CSS Grid](desafio-9.md)
+- [Desafio 10 - SVG](desafio-10.md)
+- [Desafio 11 - Menu Lateral Collapsible](desafio-11.md)
+- [Desafio 12 - Dark Mode](desafio-12.md)
 
 #### Bonus
-- [Bonus 1 - Input with Icon] (challenging-bonus-1.md)
-- [Bonus 2 - Page scroll progress bar (This one has JS)] (challenging-bonus-2.md)
+- [Bonus 1 -  Input com Icone](desafio-bonus-1.md)
+- [Bonus 2 -  Barra de progresso de rolagem de página (Esse tem JS)](desafio-bonus-2.md)
 
 
-Collection on [CodePen] (https://codepen.io/collection/AaZmOo)
+Collection no [CodePen](https://codepen.io/collection/AaZmOo)
 
-# Doubts
+# Duvidas
 
-Did any doubts came up?
+Surgiu qualquer duvida?
 
-Tips?
+Dica?
 
-Suggestions?
+Sugestão?
 
-Spelling Correction?
+Correção de portugês? 
 
-Don't be shy:
 
-- Send an [email] (mailto: alan@schirrel.dev)
-- Say hi at [telegram] (https://t.me/schirrel)
-- Or even create an issue that we'll resolve.
-
+- Manda um [emailzinho](mailto:alan@schirrel.dev)
+- Dá um oi no [telegram](https://t.me/schirrel)
+- Ou ainda cria uma issue que a gente se resolve.
 
 
 
-# Let's change the world using CSS?
+
+Vamos mudar o mundo usando CSS?
+
+Se você gostou desse desáfio não deixe de me dizer, de sentiu falta de alguma técnica ou se gostária de saber novas técnicas não deixe de dizer.
 
 
-If you liked this challenge don't forget to tell me.
-Have you missed some techniques or you would like to know new techniques don't forget to say it.
+## Tem mais?
 
+Se interessou por css mas não tem um caminhho a seguir?
 
-## Have more?
-
-Are you interested in css but don't have a path to follow?
-You can follow in the steps of [CSS Mentoring] (https://github.com/schirrel/mentoria-css)
+Você pode seguir os passos da [Mentoria CSS](https://github.com/schirrel/mentoria-css)
