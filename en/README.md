@@ -14,7 +14,7 @@ If you are more advanced you can do 3 per week, and for the more 'hard mode', yo
 - [Challenge 2 - Designing with CSS](challenge-2.md)
 - [Challenge 3 - Toggle](challenge-3.md)
 - [Challenge 4 - Dropdown](challenge-4.md)
-- [Challenge 5 - Modal](challenge 5.md)
+- [Challenge 5 - Modal](challenge-5.md)
 - [Challenge 6 - Tooltip](challenge-6.md)
 - [Challenge 7 - Input with Float Label](challenge-7.md)
 - [Challenge 8 - Animations](challenge-8.md)
