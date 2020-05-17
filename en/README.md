@@ -42,7 +42,7 @@ Spelling Correction?
 
 Don't be shy:
 
-- Send an [email](mailto: alan@schirrel.dev)
+- Send an [email](mailto:alan@schirrel.dev)
 - Say hi at [telegram](https://t.me/schirrel)
 - Or even create an issue that we'll resolve.
 

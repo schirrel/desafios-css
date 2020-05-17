@@ -5,7 +5,7 @@ Well, are we going to do this with css only?
 
 #### What you'll use
  - Siblings Selectors (`+`)
- - Pseudo Selectors (`: focus`,`: placeholder`, `: placeholder-shown`,`: not`)
+ - Pseudo Selectors (`:focus`,`:placeholder`, `:placeholder-shown`,`:not`)
 
 
  #### Rules

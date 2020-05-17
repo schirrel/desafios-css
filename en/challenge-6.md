@@ -16,7 +16,7 @@ There's a problem, the css doesn't help you with that!
 
  #### Requirements
   Is desirable that:
- - Create an anchos * a * or other element, if you use a non-natively clickable element remember to add `pointer-events` to the element
+ - Create an anchos *a* or other element, if you use a non-natively clickable element remember to add `pointer-events` to the element
  - Hover the mouse to display the tooltip
 
 

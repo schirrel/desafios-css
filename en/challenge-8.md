@@ -1,6 +1,6 @@
 ## Animation
 Do you like gradient? Well I like it a lot, and it's also a trend in UI.
-Many websites / products when loading their * assets * display a loading background where they give the feeling that something is 'running'.
+Many websites / products when loading their *assets* display a loading background where they give the feeling that something is 'running'.
 
 In this challenge you must make a gradient background and its rotation angle is animated, going from 0 to 360.
 
