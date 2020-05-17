@@ -3,7 +3,7 @@ Já pensou se pudessemos abrir e fechar um modal sem JavaScript?
 Dá! Graças a sêmantica do HTML isso é possivel.
 
 Nesse desafio você trabalhará com
-  - Semantia de HTML (`for="")
+  - Semantica de HTML (`for="")
   - Seletores Irmãos (`+`, `~`)
   - Pseudo Seletores (`:`)
   
