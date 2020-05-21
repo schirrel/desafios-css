@@ -1,4 +1,4 @@
-*[English version](en/README.md)*
+*[English version](https://github.com/schirrel/css-challenges)*
 
 Aqui você terá uma lista de desafios de css para melhorar suas habilidades com essa linguagem.
 
